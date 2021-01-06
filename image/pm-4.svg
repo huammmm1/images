@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="471.888" height="398.25" viewBox="0, 0, 471.888, 398.25">
+  <g id="Layer_1">
+    <path d="M227.39,344.75 C153.936,344.75 94.39,285.204 94.39,211.75 C94.39,138.296 153.936,78.75 227.39,78.75 C300.844,78.75 360.39,138.296 360.39,211.75 C360.39,285.204 300.844,344.75 227.39,344.75 z" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M19.39,211.75 L467.388,211.75" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M226.39,15.75 L226.39,393.75" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M227.39,211.75 L118.894,136.079" fill-opacity="0" stroke="#C81919" stroke-width="3"/>
+    <g>
+      <path d="M125.901,161.332 C130.111,153.128 137.679,142.308 143.234,135.789" fill-opacity="0" stroke="#43699F" stroke-width="2"/>
+      <path d="M125.901,161.332 L123.436,157.775 L123.251,168.026 L130.131,160.425 z" fill="#43699F" fill-opacity="1" stroke="#43699F" stroke-width="2" stroke-opacity="1"/>
+      <path d="M143.234,135.789 L143.972,140.053 L148.456,130.832 L139.015,134.831 z" fill="#43699F" fill-opacity="1" stroke="#43699F" stroke-width="2" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M61.522,140.107 C65.945,123.878 105.847,83.153 124.63,70" fill-opacity="0" stroke="#43699F" stroke-width="2"/>
+      <path d="M124.63,70 L124.285,74.313 L130.921,66.497 L120.782,68.022 z" fill="#43699F" fill-opacity="1" stroke="#43699F" stroke-width="2" stroke-opacity="1"/>
+    </g>
+    <text transform="matrix(0.68, -0.734, 0.734, 0.68, 73.19, 77.458)">
+      <tspan x="-92.59" y="6" font-family="Avenir-Medium" font-size="20" fill="#656565">Direction of rotation</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 65.636, 334.539)">
+      <tspan x="-26.68" y="-7.5" font-family="Avenir-Medium" font-size="20" fill="#656565">Phase </tspan>
+      <tspan x="-52.6" y="19.5" font-family="Avenir-Medium" font-size="20" fill="#656565">fluctuations</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 186.663, 55.512)">
+      <tspan x="-30.76" y="4.833" font-family="Avenir-Medium" font-size="20" fill="#656565">Phasor</tspan>
+    </text>
+    <g>
+      <path d="M164.901,66.024 C200.977,124.85 198.207,165.899 195.559,180.246" fill-opacity="0" stroke="#656565" stroke-width="3"/>
+      <g>
+        <path d="M195.559,180.246 L194.543,177.242 L194.345,185.276 L197.384,179.898 z" fill="#656565"/>
+        <path d="M195.559,180.246 L194.543,177.242 L194.345,185.276 L197.384,179.898 z" fill-opacity="0" stroke="#656565" stroke-width="3"/>
+      </g>
+    </g>
+    <g>
+      <text transform="matrix(1, 0, 0, 1, 70.711, 227.75)">
+        <tspan x="-7.172" y="7" font-family="Avenir-Medium" font-size="24" fill="#656565">0</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 82.586, 226.25)">
+        <tspan x="-5.703" y="8.5" font-family="LucidaGrande-Bold" font-size="24" fill="#656565">°</tspan>
+      </text>
+    </g>
+    <g>
+      <text transform="matrix(1, 0, 0, 1, 246.81, 63.25)">
+        <tspan x="-13.844" y="7" font-family="Avenir-Medium" font-size="24" fill="#656565">90</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 265.357, 61.75)">
+        <tspan x="-5.703" y="8.5" font-family="LucidaGrande-Bold" font-size="24" fill="#656565">°</tspan>
+      </text>
+    </g>
+    <g>
+      <text transform="matrix(1, 0, 0, 1, 383.56, 236.112)">
+        <tspan x="-20.516" y="7" font-family="Avenir-Medium" font-size="24" fill="#656565">180</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 408.779, 234.612)">
+        <tspan x="-5.703" y="8.5" font-family="LucidaGrande-Bold" font-size="24" fill="#656565">°</tspan>
+      </text>
+    </g>
+    <g>
+      <text transform="matrix(1, 0, 0, 1, 257.06, 360.75)">
+        <tspan x="-20.516" y="7" font-family="Avenir-Medium" font-size="24" fill="#656565">270</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 282.279, 359.25)">
+        <tspan x="-5.703" y="8.5" font-family="LucidaGrande-Bold" font-size="24" fill="#656565">°</tspan>
+      </text>
+    </g>
+    <g>
+      <path d="M124.956,178.298 L112.242,336.872" fill-opacity="0" stroke="#656565" stroke-width="3"/>
+      <path d="M124.956,178.298 L128.918,181.425 L125.627,169.925 L120.545,180.754 z" fill="#656565" fill-opacity="1" stroke="#656565" stroke-width="3" stroke-opacity="1"/>
+    </g>
+  </g>
+</svg>
